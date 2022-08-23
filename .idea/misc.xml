@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_adblock_web_view.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_chat.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_diskon.xml" value="0.15" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_edc.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_kiss_asian.xml" value="0.1015625" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_scan.xml" value="0.14479166666666668" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/chat_item.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/inputnilai.xml" value="0.16909975669099755" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/list.xml" value="0.12916666666666668" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/xml/file_paths.xml" value="0.8174342105263158" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test app</string>
+    <string name="ganti">u003C</string>
+
+    <string name="notification_channel_id">233</string>
+    <string name="notification_channel_name">channelname</string>
+
+    <string-array name="lang_option">
+        <item>eng</item>
+        <item>ind</item>
+    </string-array>
+</resources>
