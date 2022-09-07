@@ -28,11 +28,14 @@
         android:theme="@style/Theme.Test_jsoup"
         android:usesCleartextTraffic="true"
         tools:replace="android:theme">
+<!--        <activity-->
+<!--            android:name=".AnimaxPlayActivity"-->
+<!--            android:exported="false" />-->
         <activity
-            android:name=".SupperChat.Activity.ChatActivity"
+            android:name=".SupperChat.Activity.ContactActivity"
             android:exported="false" />
         <activity
-            android:name=".Indah.EDCActivity"
+            android:name=".SupperChat.Activity.ChatActivity"
             android:exported="false" />
         <activity
             android:name=".AnimebeeActivity"
@@ -50,13 +53,20 @@
         <activity android:name=".MainActivity2" />
         <activity android:name=".MainActivity" />
         <activity android:name=".PlayActivity" />
-        <activity android:name=".SupperChat.Activity.ContactActivity">
+        <activity android:name=".LEASTSQUARE.LEASTSQUARE">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<!--        <activity android:name=".AnimaxPlayActivity">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+<!--        </activity>-->
 
         <service android:name=".ExampleService" />
         <service

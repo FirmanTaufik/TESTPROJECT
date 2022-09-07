@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_adblock_web_view.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_animax_play.xml" value="0.1" />
         <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_chat.xml" value="0.1" />
         <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_diskon.xml" value="0.15" />
         <entry key="..\:/Android Studio/Duit/test_jsoup/app/src/main/res/layout/activity_edc.xml" value="0.1" />
@@ -16,7 +17,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
