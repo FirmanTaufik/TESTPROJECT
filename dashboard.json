@@ -1,0 +1,291 @@
+{
+    "result": {
+        "grafik": {
+            "tanggal": " AND date(a.date_created)='2022-10-18' ",
+            "jmlBerhasil": [
+                0,
+                0,
+                0,
+                0,
+                10,
+                19,
+                6,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "jmlGagal": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "totalCash": [
+                0,
+                0,
+                0,
+                0,
+                3509750,
+                610040,
+                899930,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "totalBB": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "totalBL": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "totalCOD": [
+                0,
+                0,
+                0,
+                0,
+                0,
+                923140,
+                237350,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "totalTransaksi": [
+                0,
+                0,
+                0,
+                0,
+                3509750,
+                1533180,
+                1137280,
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "namabulan": [
+                "January",
+                "February",
+                "March",
+                "April",
+                "May",
+                "June",
+                "July",
+                "August",
+                "September",
+                "October",
+                "November",
+                "December"
+            ]
+        },
+        "dataresi": {
+            "amountCashBulanIni": "0",
+            "amountBBBulanIni": "0",
+            "amountBLBulanIni": "0",
+            "amountCODBulanIni": "0",
+            "totalTransaksiBulanIni": "0",
+            "hariIniBerhasil": "0",
+            "bulanIniBerhasil": "0",
+            "tahunIniBerhasil": "35",
+            "hariIniBatal": "0",
+            "bulanIniBatal": "0"
+        },
+        "layanan": [
+            {
+                "kd_layanan": "CITY",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "DARAT",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "EXPRES",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "KUBIKASI DARAT",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "LAUT",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "PADATI",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "TOWING",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "TRUCK",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            },
+            {
+                "kd_layanan": "UDARA",
+                "cash": "0.0000",
+                "bb": "0.0000",
+                "bl": "0",
+                "cod": "0",
+                "total": "0"
+            }
+        ],
+        "notif_va": [],
+        "keuangan": [
+            {
+                "via": "DARAT",
+                "total_cash": "Rp. 272,710",
+                "total_bb": "Rp. 0",
+                "total_bl": "Rp. 272,704",
+                "total_omset": "Rp. 545,414",
+                "cash": "2",
+                "bb": "0",
+                "bl": "2",
+                "total_resi": 4
+            },
+            {
+                "via": "Total Hari Ini",
+                "total_cash": null,
+                "total_bb": null,
+                "total_bl": null,
+                "total_omset": null,
+                "cash": null,
+                "bb": null,
+                "bl": null,
+                "total_resi": 0
+            },
+            {
+                "via": "Total",
+                "total_cash": "Rp. 272,710",
+                "total_bb": "Rp. 0",
+                "total_bl": "Rp. 272,704",
+                "total_omset": "Rp. 545,414",
+                "cash": "2",
+                "bb": "0",
+                "bl": "2",
+                "total_resi": 4
+            }
+        ],
+        "pengeluaran": [
+            {
+                "total_pengeluaran": 360160003853,
+                "total_pengeluaran_bulan": 81000,
+                "total_pengeluaran_minggu": 0,
+                "total_pengeluaran_hari": 0
+            }
+        ],
+        "transaksi": [
+            {
+                "total_resi": 1857,
+                "total_resi_bulan": "4",
+                "total_resi_minggu": "0",
+                "total_resi_hari": "0"
+            }
+        ],
+        "perusahaan": [
+            {
+                "total_cabang": 715,
+                "total_cabang_trans": 30,
+                "total_kurir": 2724,
+                "total_karyawan": 7829
+            }
+        ],
+        "keuangan_cabang": [],
+        "keuangan_korporasi": [
+            {
+                "nama_pelanggan": "ARDILES/INDOGLOBAL NIAGATAMA PRIMA (YOGYAKARTA)",
+                "tanggal": "2022-10",
+                "cara_bayar": "BL",
+                "total_bl": "227252.0000",
+                "total_bayar": "227252.0000",
+                "telah_setor": 0,
+                "harus_setor": 227252
+            },
+            {
+                "nama_pelanggan": "AL MITRY INDO (IL LAMPUNG)",
+                "tanggal": "2022-10",
+                "cara_bayar": "BL",
+                "total_bl": "45452.0000",
+                "total_bayar": "45452.0000",
+                "telah_setor": 0,
+                "harus_setor": 45452
+            }
+        ],
+        "data_va": null,
+        "cek_resi": []
+    },
+    "code": "200",
+    "message": "getomset",
+    "response_time": "25.42603302001953125"
+}
